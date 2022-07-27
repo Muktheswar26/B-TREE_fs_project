@@ -1,0 +1,10 @@
+101|Dr. Abhay|25|Pediatricians|
+102|Dr. Muktheswar|28|Geriatric|
+103|Dr. Anjana|30|Dermatologists|
+104|Dr. Sridevi|40|Ophthalmologists|
+105|Dr. Ravi |45|Cardiologists|
+106|Dr. Sanjana|31|Dermatologists|
+107|Dr. Gagana|27|Cardiologists|
+*09|Dr. sunil|31|Ophthalmologists|
+*0|Dr. Abhay|45|Ophthalmologists|
+*08|Dr. muk|27|Dermatologists|

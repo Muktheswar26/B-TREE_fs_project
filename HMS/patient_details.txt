@@ -1,0 +1,9 @@
+1|Tulasi|26|VIP|Pediatricians|
+2|Hemanth|50|ICU|Geriatric|
+3|Surya|35|GENERAL|Ophthalmologists|
+4|Kummar|67|GENERAL|Dermatologists|
+5|Karthik|28|GENERAL|Cardiologists|
+6|Yamini|70|VIP|Geriatric|
+7|Chitti|10|GENERAL|Ophthalmologists|
+*0|Abhay|45|ICU|Geriatric|
+*|abhay|18|ICU|Ophthalmologists|
